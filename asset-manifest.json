@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/webletter-to-linsy/static/css/main.41ffa3e8.css",
+    "main.js": "/webletter-to-linsy/static/js/main.45d6ce3e.js",
+    "static/media/placeholder.jpg": "/webletter-to-linsy/static/media/placeholder.0b183c048cf0a7a3456b.jpg",
+    "static/media/Ambience 1.jpg": "/webletter-to-linsy/static/media/Ambience 1.436ee10422726acf0bf9.jpg",
+    "static/media/Ambience 6.jpg": "/webletter-to-linsy/static/media/Ambience 6.47deee594146c6bb11ad.jpg",
+    "static/media/Ambience 3.jpg": "/webletter-to-linsy/static/media/Ambience 3.667d52ae4693b42f2e9c.jpg",
+    "static/media/IMG_8098.JPG": "/webletter-to-linsy/static/media/IMG_8098.5329f66f3d45a0435f43.JPG",
+    "static/media/IVAN0476.JPG": "/webletter-to-linsy/static/media/IVAN0476.8adf0de837f0e91e4e49.JPG",
+    "static/media/IVAN0739.JPG": "/webletter-to-linsy/static/media/IVAN0739.b074b37f584c0811b6fc.JPG",
+    "static/media/IVAN1103.JPG": "/webletter-to-linsy/static/media/IVAN1103.8511344a1033746ab256.JPG",
+    "static/media/_DSC0091.jpg": "/webletter-to-linsy/static/media/_DSC0091.8fd48134b49bc95a1a07.jpg",
+    "static/media/_DSC0196.jpg": "/webletter-to-linsy/static/media/_DSC0196.0697a90487bf808ed0cb.jpg",
+    "static/media/_DSC0148.jpg": "/webletter-to-linsy/static/media/_DSC0148.464ac5d840e3b0e6fc3e.jpg",
+    "static/media/PromotionImage.jpeg": "/webletter-to-linsy/static/media/PromotionImage.241f56457e2e1c51df68.jpeg",
+    "static/media/NunitoSans-VariableFont_YTLC,opsz,wdth,wght.ttf": "/webletter-to-linsy/static/media/NunitoSans-VariableFont_YTLC,opsz,wdth,wght.61b71ee93d55d9bddead.ttf",
+    "static/media/HeroImage.jpeg": "/webletter-to-linsy/static/media/HeroImage.be88f98fff3b6ee8cf6d.jpeg",
+    "static/media/Advertisement_Image1.jpeg": "/webletter-to-linsy/static/media/Advertisement_Image1.227f4f39a5109f3300b7.jpeg",
+    "static/media/pic4.jpeg": "/webletter-to-linsy/static/media/pic4.1a6b9549681e8c51406a.jpeg",
+    "static/media/sloopscript.ttf": "/webletter-to-linsy/static/media/sloopscript.a0ad6e9c4d7b593cdcbe.ttf",
+    "static/media/pic5.jpeg": "/webletter-to-linsy/static/media/pic5.ee10a3b8b7dcf2ea189d.jpeg",
+    "static/media/pic3.jpeg": "/webletter-to-linsy/static/media/pic3.a60a2ddba3f181132645.jpeg",
+    "static/media/Soulfit-Logo.png": "/webletter-to-linsy/static/media/Soulfit-Logo.021633808a7f335defa8.png",
+    "static/media/pic6.jpeg": "/webletter-to-linsy/static/media/pic6.4b75d50cbe0e4f431e9a.jpeg",
+    "static/media/Mee Tjap Hokee logo.png": "/webletter-to-linsy/static/media/Mee Tjap Hokee logo.ce02966a5b6da35afa1e.png",
+    "static/media/pic1.jpeg": "/webletter-to-linsy/static/media/pic1.0e2a378772508b22d142.jpeg",
+    "static/media/pic2.jpeg": "/webletter-to-linsy/static/media/pic2.fb72f99b049f3775ba3c.jpeg",
+    "index.html": "/webletter-to-linsy/index.html",
+    "main.41ffa3e8.css.map": "/webletter-to-linsy/static/css/main.41ffa3e8.css.map",
+    "main.45d6ce3e.js.map": "/webletter-to-linsy/static/js/main.45d6ce3e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41ffa3e8.css",
+    "static/js/main.45d6ce3e.js"
+  ]
+}
