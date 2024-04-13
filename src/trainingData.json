@@ -1,0 +1,28 @@
+[
+    {
+      "input": {
+        "navbar": 2,
+        "hero": 5,
+        "about": 8,
+        "faq": 2,
+        "service": 7,
+        "contact": 3,
+        "testimonials": 1,
+        "footer": 1
+      },
+      "output": [1]
+    },
+    {
+      "input": {
+        "navbar": 1,
+        "hero": 3,
+        "about": 5,
+        "faq": 1,
+        "service": 4,
+        "contact": 2,
+        "testimonials": 2,
+        "footer": 1
+      },
+      "output": [0]
+    }
+]

@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Sloop Script';
+    src: url('SloopScript.woff2') format('woff2'),
+        url('SloopScript.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

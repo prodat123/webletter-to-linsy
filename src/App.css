@@ -1,0 +1,76 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'nunito_sans';
+  src: url('./fonts/Nunito_Sans/NunitoSans-VariableFont_YTLC\,opsz\,wdth\,wght.ttf') format('truetype');
+  /* Add additional formats if necessary */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'sloop_script';
+  src: url('./fonts/sloop-script/sloopscript.ttf') format('truetype');
+  /* Add additional formats if necessary */
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+:root{
+    --primary_color-: #ADD8E6;
+}
+
+
+body::-webkit-scrollbar {
+    display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+body {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+
+.star-shape::before {
+  content: '';
+  position: absolute;
+  top: -10px;
+  left: -10px;
+  width: 0;
+  height: 0;
+  border-left: 15px solid transparent;
+  border-right: 15px solid transparent;
+  border-bottom: 25px solid #fff; /* Set the color to match your background */
+  z-index: -1;
+}
+
+.clip-path-polygon {
+  clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+}
+
+.hexagon-clip {
+  clip-path: url(#hexagons);
+}
+
+@keyframes burst {
+  0% {
+    transform: scale(0) rotate(0);
+    opacity: 1;
+  }
+  50% {
+    transform: scale(1.5) rotate(360deg);
+    opacity: 0.5;
+  }
+  100% {
+    transform: scale(3) rotate(720deg);
+    opacity: 0;
+  }
+}
+
+.animate-burst {
+  animation: burst 0.8s cubic-bezier(0.165, 0.84, 0.44, 1) forwards;
+}
+
