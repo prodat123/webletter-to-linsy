@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/webletter-to-linsy/static/css/main.41ffa3e8.css",
-    "main.js": "/webletter-to-linsy/static/js/main.4f3cbee8.js",
+    "main.js": "/webletter-to-linsy/static/js/main.a7bc5945.js",
     "static/media/placeholder.jpg": "/webletter-to-linsy/static/media/placeholder.0b183c048cf0a7a3456b.jpg",
     "static/media/Ambience 1.jpg": "/webletter-to-linsy/static/media/Ambience 1.436ee10422726acf0bf9.jpg",
     "static/media/Ambience 6.jpg": "/webletter-to-linsy/static/media/Ambience 6.47deee594146c6bb11ad.jpg",
@@ -28,10 +28,10 @@
     "static/media/pic2.jpeg": "/webletter-to-linsy/static/media/pic2.fb72f99b049f3775ba3c.jpeg",
     "index.html": "/webletter-to-linsy/index.html",
     "main.41ffa3e8.css.map": "/webletter-to-linsy/static/css/main.41ffa3e8.css.map",
-    "main.4f3cbee8.js.map": "/webletter-to-linsy/static/js/main.4f3cbee8.js.map"
+    "main.a7bc5945.js.map": "/webletter-to-linsy/static/js/main.a7bc5945.js.map"
   },
   "entrypoints": [
     "static/css/main.41ffa3e8.css",
-    "static/js/main.4f3cbee8.js"
+    "static/js/main.a7bc5945.js"
   ]
 }
